@@ -78,9 +78,9 @@ class GuessTheNumberUI:
             font=("Arial", 12, "bold"),
             command=self.submit_guess,
             bg=self.accent_color,
-            fg="#FFFFFF",
+            fg="#000000",
             activebackground=self.accent_color,
-            activeforeground="#FFFFFF",
+            activeforeground="#000000",
             padx=10,
             pady=3
         )
@@ -112,9 +112,9 @@ class GuessTheNumberUI:
             font=("Arial", 12, "bold"),
             command=self.new_game,
             bg="#77B677",
-            fg="#FFFFFF",
+            fg="#000000",
             activebackground="#84BF73",
-            activeforeground="#FFFFFF",
+            activeforeground="#000000",
             padx=12,
             pady=4
         )
@@ -194,9 +194,9 @@ class GuessTheNumberUI:
             font=("Arial", 14, "bold"),
             command=self.new_game,
             bg=self.accent_color,
-            fg="#FFFFFF",
+            fg="#000000",
             activebackground=self.accent_color,
-            activeforeground="#FFFFFF",
+            activeforeground="#000000",
             padx=16,
             pady=6
         )

@@ -1,3 +1,10 @@
+'''
+Group Members: 
+Hasti Abbasi Kenarsari
+Sarah Huynh
+Mayela Ancheta 
+'''
+
 import tkinter as tk
 from game_logic import GuessTheNumber
 
